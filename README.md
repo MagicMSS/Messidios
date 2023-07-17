@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Messi God</title>
+    <title>Messi GOD</title>
 </head>
 <body>
     <header>
